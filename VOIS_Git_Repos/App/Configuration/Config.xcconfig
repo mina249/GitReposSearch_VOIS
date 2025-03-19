@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  VOIS_Git_Repos
+//
+//  Created by Mina Nageh on 19/03/2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_URL = https:/$()/api.github.com/search/repositories?q=
